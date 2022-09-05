@@ -1,2 +1,2 @@
 # AD-Tut
-Windows AD Lab Tutorial notes
+Windows AD Lab Tutorial notes and resources
