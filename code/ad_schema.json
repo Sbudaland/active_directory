@@ -1,0 +1,34 @@
+{
+    "domain": "xyz.com",
+    "groups": [
+        {
+            "name": "Employees"
+        }
+    ],
+
+    "users":[
+
+        {
+            "name": "Miyela Cindi",
+            "password": "P@$$w0rd123",
+            "groups":[
+                "Employees"
+            ]
+        }, 
+        {
+            "name": "Celiwe Cindi",
+            "password": "P@$$w0rd123",
+            "groups":[
+                "Employees"
+            ]
+        },
+        {
+            "name": "Zandile Cindi",
+            "password": "P@$$w0rd123",
+            "groups":[
+                "Employees"
+            ]
+        }
+
+    ]
+}
