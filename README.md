@@ -11,3 +11,15 @@ Windows AD Lab Tutorial notes and resources
 '''shell
 Install-WindowsFeature AD-Domain-Serives -IncludeManagementTools
 '''
+
+'''
+Get-NetIPAddress
+'''
+
+# Joining the workstation to the domain
+
+
+'''
+Add-Computer -Domainname xyz.com -Credential xyz\Administrator
+-Force -Restart
+'''
