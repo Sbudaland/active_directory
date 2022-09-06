@@ -18,7 +18,7 @@ function CreateADUser(){
     $username = ($firstname[0] + $lastname).ToLower()
     $SamAccountName = $username
     $principalname = $username
-
+    Enable-ADAccount -Identity $username
     #Create the AD user object
     New-ADUser -Name "$name" -GivenName $firstname -Surname $lastname -SamAccountName $SamAccountName -UserPrincipalName $principalname@$Global:Domain -AccountPassword (ConvertTo-SecureString $password -AsPlainText -Force) -PassThru | Enable-ADAccount
 
@@ -37,6 +37,16 @@ function CreateADUser(){
     }
 }
 
+
+
+function WeakenPasswordPolicy(){
+    secedit /export /cfg c:\Windows\Tasks\secpol.cfg
+    (Get-Content c:\Windows\Tasks\secpol.cfg).replace("PasswordComplexity = 1", "PasswordComplexity = 0") | Out-File c:\Windows\Tasks\secpol.cfg
+    secedit /configure /db c:\windows\security\local.sdb /cfg c:\Windows\Tasks\secpol.cfg /areas SECURITYPOLICY
+    rm -force c:\Windows\Tasks\secpol.cfg -confirm:$false
+}
+
+WeakenPasswordPolicy
 $json = (Get-Content $JSONFile | ConvertFrom-JSON)
 
 $Global:Domain = $json.domain
@@ -46,5 +56,6 @@ foreach($group in $json.groups){
 }
 
 foreach($user in $json.users){
+    
     CreateADUser $user
 }

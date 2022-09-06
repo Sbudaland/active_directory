@@ -1,0 +1,3980 @@
+[
+    {
+        "GivenName":  null,
+        "Surname":  null,
+        "UserPrincipalName":  null,
+        "Enabled":  false,
+        "SamAccountName":  "Guest",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-501"
+                },
+        "DistinguishedName":  "CN=Guest,CN=Users,DC=xyz,DC=com",
+        "Name":  "Guest",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "01b0af43-717e-44d9-8587-c3b1590afd0c",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "01b0af43-717e-44d9-8587-c3b1590afd0c"
+    },
+    {
+        "GivenName":  null,
+        "Surname":  null,
+        "UserPrincipalName":  null,
+        "Enabled":  false,
+        "SamAccountName":  "krbtgt",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-502"
+                },
+        "DistinguishedName":  "CN=krbtgt,CN=Users,DC=xyz,DC=com",
+        "Name":  "krbtgt",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "e76194ad-2401-4519-bb67-ebaffaccb077",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "e76194ad-2401-4519-bb67-ebaffaccb077"
+    },
+    {
+        "GivenName":  "Quinten",
+        "Surname":  "Washington",
+        "UserPrincipalName":  "qwashington@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "qwashington",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1118"
+                },
+        "DistinguishedName":  "CN=Quinten Washington,CN=Users,DC=xyz,DC=com",
+        "Name":  "Quinten Washington",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "1c8c2b8f-2d76-48ac-a030-cf8aa39cf70b",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "1c8c2b8f-2d76-48ac-a030-cf8aa39cf70b"
+    },
+    {
+        "GivenName":  "Jayce",
+        "Surname":  "Fuller",
+        "UserPrincipalName":  "jfuller@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "jfuller",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1119"
+                },
+        "DistinguishedName":  "CN=Jayce Fuller,CN=Users,DC=xyz,DC=com",
+        "Name":  "Jayce Fuller",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "aed040d0-1be0-4bb6-bad1-ea2bff3fb2e1",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "aed040d0-1be0-4bb6-bad1-ea2bff3fb2e1"
+    },
+    {
+        "GivenName":  "Johnathon",
+        "Surname":  "Shannon",
+        "UserPrincipalName":  "jshannon@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "jshannon",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1120"
+                },
+        "DistinguishedName":  "CN=Johnathon Shannon,CN=Users,DC=xyz,DC=com",
+        "Name":  "Johnathon Shannon",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "b27b527d-52a5-4fff-af2a-65c482f34be2",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "b27b527d-52a5-4fff-af2a-65c482f34be2"
+    },
+    {
+        "GivenName":  "Michaela",
+        "Surname":  "Mcbride",
+        "UserPrincipalName":  "mmcbride@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "mmcbride",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1121"
+                },
+        "DistinguishedName":  "CN=Michaela Mcbride,CN=Users,DC=xyz,DC=com",
+        "Name":  "Michaela Mcbride",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "26c3372d-3c82-4769-a4d5-a2e6dca35d98",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "26c3372d-3c82-4769-a4d5-a2e6dca35d98"
+    },
+    {
+        "GivenName":  "Lexi",
+        "Surname":  "Rocha",
+        "UserPrincipalName":  "lrocha@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "lrocha",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1122"
+                },
+        "DistinguishedName":  "CN=Lexi Rocha,CN=Users,DC=xyz,DC=com",
+        "Name":  "Lexi Rocha",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "dba5ef5e-7ab6-4be3-8dae-c67a658451d8",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "dba5ef5e-7ab6-4be3-8dae-c67a658451d8"
+    },
+    {
+        "GivenName":  "Mallory",
+        "Surname":  "Hale",
+        "UserPrincipalName":  "mhale@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "mhale",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1123"
+                },
+        "DistinguishedName":  "CN=Mallory Hale,CN=Users,DC=xyz,DC=com",
+        "Name":  "Mallory Hale",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "2a8515f1-55c4-45f0-98ad-2652cdf6e876",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "2a8515f1-55c4-45f0-98ad-2652cdf6e876"
+    },
+    {
+        "GivenName":  "Alaina",
+        "Surname":  "Strickland",
+        "UserPrincipalName":  "astrickland@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "astrickland",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1124"
+                },
+        "DistinguishedName":  "CN=Alaina Strickland,CN=Users,DC=xyz,DC=com",
+        "Name":  "Alaina Strickland",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "f4b7a2bc-658f-4c5e-8b0a-0d33f9347b69",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "f4b7a2bc-658f-4c5e-8b0a-0d33f9347b69"
+    },
+    {
+        "GivenName":  "Braydon",
+        "Surname":  "Jarvis",
+        "UserPrincipalName":  "bjarvis@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "bjarvis",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1125"
+                },
+        "DistinguishedName":  "CN=Braydon Jarvis,CN=Users,DC=xyz,DC=com",
+        "Name":  "Braydon Jarvis",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "bcaa935a-59b6-4816-bdd5-7957afc5a431",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "bcaa935a-59b6-4816-bdd5-7957afc5a431"
+    },
+    {
+        "GivenName":  "Yosef",
+        "Surname":  "Davenport",
+        "UserPrincipalName":  "ydavenport@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "ydavenport",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1126"
+                },
+        "DistinguishedName":  "CN=Yosef Davenport,CN=Users,DC=xyz,DC=com",
+        "Name":  "Yosef Davenport",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "0c6db26b-6e4c-4537-8561-dd6979c2cf3b",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "0c6db26b-6e4c-4537-8561-dd6979c2cf3b"
+    },
+    {
+        "GivenName":  "Waylon",
+        "Surname":  "Mcgrath",
+        "UserPrincipalName":  "wmcgrath@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "wmcgrath",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1127"
+                },
+        "DistinguishedName":  "CN=Waylon Mcgrath,CN=Users,DC=xyz,DC=com",
+        "Name":  "Waylon Mcgrath",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "2a9ecc52-6a3e-4e1e-acdc-39919aa8f7bf",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "2a9ecc52-6a3e-4e1e-acdc-39919aa8f7bf"
+    },
+    {
+        "GivenName":  "Dangelo",
+        "Surname":  "Maxwell",
+        "UserPrincipalName":  "dmaxwell@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "dmaxwell",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1128"
+                },
+        "DistinguishedName":  "CN=Dangelo Maxwell,CN=Users,DC=xyz,DC=com",
+        "Name":  "Dangelo Maxwell",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "e8c52bbd-ee29-44a4-b38a-25b162c115af",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "e8c52bbd-ee29-44a4-b38a-25b162c115af"
+    },
+    {
+        "GivenName":  "Rylee",
+        "Surname":  "Love",
+        "UserPrincipalName":  "rlove@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "rlove",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1129"
+                },
+        "DistinguishedName":  "CN=Rylee Love,CN=Users,DC=xyz,DC=com",
+        "Name":  "Rylee Love",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "0fc363a2-9336-4b16-b7fc-44194ace6623",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "0fc363a2-9336-4b16-b7fc-44194ace6623"
+    },
+    {
+        "GivenName":  "Phoenix",
+        "Surname":  "Russo",
+        "UserPrincipalName":  "prusso@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "prusso",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1130"
+                },
+        "DistinguishedName":  "CN=Phoenix Russo,CN=Users,DC=xyz,DC=com",
+        "Name":  "Phoenix Russo",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "0bc4986c-a84d-4b4e-83e7-752f23dee474",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "0bc4986c-a84d-4b4e-83e7-752f23dee474"
+    },
+    {
+        "GivenName":  "Maurice",
+        "Surname":  "Weiss",
+        "UserPrincipalName":  "mweiss@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "mweiss",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1131"
+                },
+        "DistinguishedName":  "CN=Maurice Weiss,CN=Users,DC=xyz,DC=com",
+        "Name":  "Maurice Weiss",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "bc57765f-ba59-4753-9b57-dd9409544a42",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "bc57765f-ba59-4753-9b57-dd9409544a42"
+    },
+    {
+        "GivenName":  "Dominique",
+        "Surname":  "Bright",
+        "UserPrincipalName":  "dbright@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "dbright",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1132"
+                },
+        "DistinguishedName":  "CN=Dominique Bright,CN=Users,DC=xyz,DC=com",
+        "Name":  "Dominique Bright",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "6ea72dad-bbdd-447f-8518-1b7b8b4815a9",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "6ea72dad-bbdd-447f-8518-1b7b8b4815a9"
+    },
+    {
+        "GivenName":  "Claudia",
+        "Surname":  "Le",
+        "UserPrincipalName":  "cle@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "cle",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1133"
+                },
+        "DistinguishedName":  "CN=Claudia Le,CN=Users,DC=xyz,DC=com",
+        "Name":  "Claudia Le",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "08d0f591-813c-4a5e-abab-7c5e09665ef8",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "08d0f591-813c-4a5e-abab-7c5e09665ef8"
+    },
+    {
+        "GivenName":  "Quinn",
+        "Surname":  "Ewing",
+        "UserPrincipalName":  "qewing@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "qewing",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1134"
+                },
+        "DistinguishedName":  "CN=Quinn Ewing,CN=Users,DC=xyz,DC=com",
+        "Name":  "Quinn Ewing",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "2af64600-c3a8-4ab8-a96a-dbed78c1eee9",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "2af64600-c3a8-4ab8-a96a-dbed78c1eee9"
+    },
+    {
+        "GivenName":  "Lawrence",
+        "Surname":  "Hicks",
+        "UserPrincipalName":  "lhicks@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "lhicks",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1135"
+                },
+        "DistinguishedName":  "CN=Lawrence Hicks,CN=Users,DC=xyz,DC=com",
+        "Name":  "Lawrence Hicks",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "5f19e454-515a-496d-816d-1007c1d9380f",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "5f19e454-515a-496d-816d-1007c1d9380f"
+    },
+    {
+        "GivenName":  "Sydney",
+        "Surname":  "Cooper",
+        "UserPrincipalName":  "scooper@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "scooper",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1136"
+                },
+        "DistinguishedName":  "CN=Sydney Cooper,CN=Users,DC=xyz,DC=com",
+        "Name":  "Sydney Cooper",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "9ba44f09-7e78-4e0e-98d8-f3dbabf9c212",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "9ba44f09-7e78-4e0e-98d8-f3dbabf9c212"
+    },
+    {
+        "GivenName":  "Scott",
+        "Surname":  "Wade",
+        "UserPrincipalName":  "swade@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "swade",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1137"
+                },
+        "DistinguishedName":  "CN=Scott Wade,CN=Users,DC=xyz,DC=com",
+        "Name":  "Scott Wade",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "9187b3d9-a6db-4b29-a333-3c549137cf0b",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "9187b3d9-a6db-4b29-a333-3c549137cf0b"
+    },
+    {
+        "GivenName":  "Nicolas",
+        "Surname":  "Morrison",
+        "UserPrincipalName":  "nmorrison@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "nmorrison",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1138"
+                },
+        "DistinguishedName":  "CN=Nicolas Morrison,CN=Users,DC=xyz,DC=com",
+        "Name":  "Nicolas Morrison",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "13b1b508-6b76-4509-b10a-1e8c66aa96a5",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "13b1b508-6b76-4509-b10a-1e8c66aa96a5"
+    },
+    {
+        "GivenName":  "Shaun",
+        "Surname":  "Soto",
+        "UserPrincipalName":  "ssoto@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "ssoto",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1139"
+                },
+        "DistinguishedName":  "CN=Shaun Soto,CN=Users,DC=xyz,DC=com",
+        "Name":  "Shaun Soto",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "2693973c-b898-4c5d-82bf-c1323880e781",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "2693973c-b898-4c5d-82bf-c1323880e781"
+    },
+    {
+        "GivenName":  "Sidney",
+        "Surname":  "Joyce",
+        "UserPrincipalName":  "sjoyce@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "sjoyce",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1140"
+                },
+        "DistinguishedName":  "CN=Sidney Joyce,CN=Users,DC=xyz,DC=com",
+        "Name":  "Sidney Joyce",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "1c15c5e6-07fa-47dd-acd6-c60fd1f8d5c7",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "1c15c5e6-07fa-47dd-acd6-c60fd1f8d5c7"
+    },
+    {
+        "GivenName":  "Savanna",
+        "Surname":  "Colon",
+        "UserPrincipalName":  "scolon@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "scolon",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1141"
+                },
+        "DistinguishedName":  "CN=Savanna Colon,CN=Users,DC=xyz,DC=com",
+        "Name":  "Savanna Colon",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "47a59423-feea-4761-b2c0-edaf660d8cd4",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "47a59423-feea-4761-b2c0-edaf660d8cd4"
+    },
+    {
+        "GivenName":  "Leticia",
+        "Surname":  "Waller",
+        "UserPrincipalName":  "lwaller@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "lwaller",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1142"
+                },
+        "DistinguishedName":  "CN=Leticia Waller,CN=Users,DC=xyz,DC=com",
+        "Name":  "Leticia Waller",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "cf365eff-53bd-43a4-9315-a2b31a6411b1",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "cf365eff-53bd-43a4-9315-a2b31a6411b1"
+    },
+    {
+        "GivenName":  "Francis",
+        "Surname":  "Perez",
+        "UserPrincipalName":  "fperez@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "fperez",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1143"
+                },
+        "DistinguishedName":  "CN=Francis Perez,CN=Users,DC=xyz,DC=com",
+        "Name":  "Francis Perez",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "85b289f3-e8fb-49af-bc75-57ec3f2d61ad",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "85b289f3-e8fb-49af-bc75-57ec3f2d61ad"
+    },
+    {
+        "GivenName":  "Kadin",
+        "Surname":  "Pineda",
+        "UserPrincipalName":  "kpineda@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "kpineda",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1144"
+                },
+        "DistinguishedName":  "CN=Kadin Pineda,CN=Users,DC=xyz,DC=com",
+        "Name":  "Kadin Pineda",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "d7dc1c11-292f-4ae4-ace4-08e5fadc95aa",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "d7dc1c11-292f-4ae4-ace4-08e5fadc95aa"
+    },
+    {
+        "GivenName":  "Jose",
+        "Surname":  "Haas",
+        "UserPrincipalName":  "jhaas@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "jhaas",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1145"
+                },
+        "DistinguishedName":  "CN=Jose Haas,CN=Users,DC=xyz,DC=com",
+        "Name":  "Jose Haas",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "9eade174-3234-4bd7-973c-ba2be230a4d9",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "9eade174-3234-4bd7-973c-ba2be230a4d9"
+    },
+    {
+        "GivenName":  "Abagail",
+        "Surname":  "Luna",
+        "UserPrincipalName":  "aluna@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "aluna",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1146"
+                },
+        "DistinguishedName":  "CN=Abagail Luna,CN=Users,DC=xyz,DC=com",
+        "Name":  "Abagail Luna",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "9a8d518b-d1f3-431b-87f6-0094160c6510",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "9a8d518b-d1f3-431b-87f6-0094160c6510"
+    },
+    {
+        "GivenName":  "Willow",
+        "Surname":  "Trujillo",
+        "UserPrincipalName":  "wtrujillo@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "wtrujillo",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1147"
+                },
+        "DistinguishedName":  "CN=Willow Trujillo,CN=Users,DC=xyz,DC=com",
+        "Name":  "Willow Trujillo",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "72b98710-f687-4d16-a76a-47f46b755591",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "72b98710-f687-4d16-a76a-47f46b755591"
+    },
+    {
+        "GivenName":  "Pamela",
+        "Surname":  "Fisher",
+        "UserPrincipalName":  "pfisher@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "pfisher",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1148"
+                },
+        "DistinguishedName":  "CN=Pamela Fisher,CN=Users,DC=xyz,DC=com",
+        "Name":  "Pamela Fisher",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "674ef794-acd9-4359-a82e-6a0752965bef",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "674ef794-acd9-4359-a82e-6a0752965bef"
+    },
+    {
+        "GivenName":  "Khloe",
+        "Surname":  "Dyer",
+        "UserPrincipalName":  "kdyer@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "kdyer",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1149"
+                },
+        "DistinguishedName":  "CN=Khloe Dyer,CN=Users,DC=xyz,DC=com",
+        "Name":  "Khloe Dyer",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "8d5bbcc2-4da7-455d-ba2b-e5fc7fcec151",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "8d5bbcc2-4da7-455d-ba2b-e5fc7fcec151"
+    },
+    {
+        "GivenName":  "Kadin",
+        "Surname":  "Martinez",
+        "UserPrincipalName":  "kmartinez@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "kmartinez",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1150"
+                },
+        "DistinguishedName":  "CN=Kadin Martinez,CN=Users,DC=xyz,DC=com",
+        "Name":  "Kadin Martinez",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "5ced31ff-db79-4bbf-bc56-344452c3b22d",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "5ced31ff-db79-4bbf-bc56-344452c3b22d"
+    },
+    {
+        "GivenName":  "Felipe",
+        "Surname":  "Gay",
+        "UserPrincipalName":  "fgay@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "fgay",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1151"
+                },
+        "DistinguishedName":  "CN=Felipe Gay,CN=Users,DC=xyz,DC=com",
+        "Name":  "Felipe Gay",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "df152544-c809-4747-9991-ac3957c661b9",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "df152544-c809-4747-9991-ac3957c661b9"
+    },
+    {
+        "GivenName":  "Quinten",
+        "Surname":  "Petersen",
+        "UserPrincipalName":  "qpetersen@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "qpetersen",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1152"
+                },
+        "DistinguishedName":  "CN=Quinten Petersen,CN=Users,DC=xyz,DC=com",
+        "Name":  "Quinten Petersen",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "43a01ed7-8b2b-4848-950c-9cf151690ec4",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "43a01ed7-8b2b-4848-950c-9cf151690ec4"
+    },
+    {
+        "GivenName":  "Caleb",
+        "Surname":  "Montes",
+        "UserPrincipalName":  "cmontes@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "cmontes",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1153"
+                },
+        "DistinguishedName":  "CN=Caleb Montes,CN=Users,DC=xyz,DC=com",
+        "Name":  "Caleb Montes",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "cfbad714-a1c1-453d-b0f7-b5acc3f09cdc",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "cfbad714-a1c1-453d-b0f7-b5acc3f09cdc"
+    },
+    {
+        "GivenName":  "Blaze",
+        "Surname":  "Davila",
+        "UserPrincipalName":  "bdavila@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "bdavila",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1154"
+                },
+        "DistinguishedName":  "CN=Blaze Davila,CN=Users,DC=xyz,DC=com",
+        "Name":  "Blaze Davila",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "8663cd9d-ef68-4d6a-89aa-a5bcb64ccdbe",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "8663cd9d-ef68-4d6a-89aa-a5bcb64ccdbe"
+    },
+    {
+        "GivenName":  "Adrianna",
+        "Surname":  "Aguilar",
+        "UserPrincipalName":  "aaguilar@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "aaguilar",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1155"
+                },
+        "DistinguishedName":  "CN=Adrianna Aguilar,CN=Users,DC=xyz,DC=com",
+        "Name":  "Adrianna Aguilar",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "2a4b912a-6fec-4eee-8547-71620268d69d",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "2a4b912a-6fec-4eee-8547-71620268d69d"
+    },
+    {
+        "GivenName":  "Lara",
+        "Surname":  "Salas",
+        "UserPrincipalName":  "lsalas@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "lsalas",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1156"
+                },
+        "DistinguishedName":  "CN=Lara Salas,CN=Users,DC=xyz,DC=com",
+        "Name":  "Lara Salas",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "a99576ef-6329-4dc8-a459-90fd5550a84e",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "a99576ef-6329-4dc8-a459-90fd5550a84e"
+    },
+    {
+        "GivenName":  "Erica",
+        "Surname":  "Payne",
+        "UserPrincipalName":  "epayne@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "epayne",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1157"
+                },
+        "DistinguishedName":  "CN=Erica Payne,CN=Users,DC=xyz,DC=com",
+        "Name":  "Erica Payne",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "1cb04dc1-27de-4b5d-9283-5a99bd747339",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "1cb04dc1-27de-4b5d-9283-5a99bd747339"
+    },
+    {
+        "GivenName":  "Linda",
+        "Surname":  "Blanchard",
+        "UserPrincipalName":  "lblanchard@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "lblanchard",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1158"
+                },
+        "DistinguishedName":  "CN=Linda Blanchard,CN=Users,DC=xyz,DC=com",
+        "Name":  "Linda Blanchard",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "342eab60-d107-4706-92f3-7d7051660992",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "342eab60-d107-4706-92f3-7d7051660992"
+    },
+    {
+        "GivenName":  "Ralph",
+        "Surname":  "Gregory",
+        "UserPrincipalName":  "rgregory@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "rgregory",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1159"
+                },
+        "DistinguishedName":  "CN=Ralph Gregory,CN=Users,DC=xyz,DC=com",
+        "Name":  "Ralph Gregory",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "acefb660-2559-4071-86a1-9cc2f9609b17",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "acefb660-2559-4071-86a1-9cc2f9609b17"
+    },
+    {
+        "GivenName":  "Emmy",
+        "Surname":  "Fernandez",
+        "UserPrincipalName":  "efernandez@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "efernandez",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1160"
+                },
+        "DistinguishedName":  "CN=Emmy Fernandez,CN=Users,DC=xyz,DC=com",
+        "Name":  "Emmy Fernandez",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "337b1b18-cfa5-4fb7-84e9-ced72853cc56",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "337b1b18-cfa5-4fb7-84e9-ced72853cc56"
+    },
+    {
+        "GivenName":  "Xzavier",
+        "Surname":  "Villa",
+        "UserPrincipalName":  "xvilla@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "xvilla",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1161"
+                },
+        "DistinguishedName":  "CN=Xzavier Villa,CN=Users,DC=xyz,DC=com",
+        "Name":  "Xzavier Villa",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "5de27af0-8d85-4004-90b8-e3b575e856fd",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "5de27af0-8d85-4004-90b8-e3b575e856fd"
+    },
+    {
+        "GivenName":  "Landen",
+        "Surname":  "Rivera",
+        "UserPrincipalName":  "lrivera@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "lrivera",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1162"
+                },
+        "DistinguishedName":  "CN=Landen Rivera,CN=Users,DC=xyz,DC=com",
+        "Name":  "Landen Rivera",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "3a5a7bd1-aa30-4597-971d-1869478c8d45",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "3a5a7bd1-aa30-4597-971d-1869478c8d45"
+    },
+    {
+        "GivenName":  "Janet",
+        "Surname":  "Jimenez",
+        "UserPrincipalName":  "jjimenez@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "jjimenez",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1163"
+                },
+        "DistinguishedName":  "CN=Janet Jimenez,CN=Users,DC=xyz,DC=com",
+        "Name":  "Janet Jimenez",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "7fe2d133-ba90-4ca7-a035-a679adf41f67",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "7fe2d133-ba90-4ca7-a035-a679adf41f67"
+    },
+    {
+        "GivenName":  "Heath",
+        "Surname":  "Ward",
+        "UserPrincipalName":  "hward@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "hward",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1164"
+                },
+        "DistinguishedName":  "CN=Heath Ward,CN=Users,DC=xyz,DC=com",
+        "Name":  "Heath Ward",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "2af6d292-66d9-480a-9887-79a7ed3ef90e",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "2af6d292-66d9-480a-9887-79a7ed3ef90e"
+    },
+    {
+        "GivenName":  "Adrian",
+        "Surname":  "Mayer",
+        "UserPrincipalName":  "amayer@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "amayer",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1165"
+                },
+        "DistinguishedName":  "CN=Adrian Mayer,CN=Users,DC=xyz,DC=com",
+        "Name":  "Adrian Mayer",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "07e31254-5263-42af-8849-d980140b4272",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "07e31254-5263-42af-8849-d980140b4272"
+    },
+    {
+        "GivenName":  "Gustavo",
+        "Surname":  "Russell",
+        "UserPrincipalName":  "grussell@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "grussell",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1166"
+                },
+        "DistinguishedName":  "CN=Gustavo Russell,CN=Users,DC=xyz,DC=com",
+        "Name":  "Gustavo Russell",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "8f3abed4-1eab-4479-bc1a-ead475acce59",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "8f3abed4-1eab-4479-bc1a-ead475acce59"
+    },
+    {
+        "GivenName":  "Luna",
+        "Surname":  "Baxter",
+        "UserPrincipalName":  "lbaxter@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "lbaxter",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1167"
+                },
+        "DistinguishedName":  "CN=Luna Baxter,CN=Users,DC=xyz,DC=com",
+        "Name":  "Luna Baxter",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "4443b3da-9583-4b88-914f-ef99af18c05c",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "4443b3da-9583-4b88-914f-ef99af18c05c"
+    },
+    {
+        "GivenName":  "Rudy",
+        "Surname":  "Wilcox",
+        "UserPrincipalName":  "rwilcox@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "rwilcox",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1168"
+                },
+        "DistinguishedName":  "CN=Rudy Wilcox,CN=Users,DC=xyz,DC=com",
+        "Name":  "Rudy Wilcox",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "4b2f3318-292a-4814-81e8-ef179629c282",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "4b2f3318-292a-4814-81e8-ef179629c282"
+    },
+    {
+        "GivenName":  "Kasen",
+        "Surname":  "Zimmerman",
+        "UserPrincipalName":  "kzimmerman@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "kzimmerman",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1169"
+                },
+        "DistinguishedName":  "CN=Kasen Zimmerman,CN=Users,DC=xyz,DC=com",
+        "Name":  "Kasen Zimmerman",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "dba3f730-55ca-4abc-9dec-073dcc8c0c4b",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "dba3f730-55ca-4abc-9dec-073dcc8c0c4b"
+    },
+    {
+        "GivenName":  "Mary",
+        "Surname":  "Schaefer",
+        "UserPrincipalName":  "mschaefer@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "mschaefer",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1170"
+                },
+        "DistinguishedName":  "CN=Mary Schaefer,CN=Users,DC=xyz,DC=com",
+        "Name":  "Mary Schaefer",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "05efe6c7-07dc-48e0-823e-2ca199786d13",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "05efe6c7-07dc-48e0-823e-2ca199786d13"
+    },
+    {
+        "GivenName":  "Alden",
+        "Surname":  "Jarvis",
+        "UserPrincipalName":  "ajarvis@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "ajarvis",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1171"
+                },
+        "DistinguishedName":  "CN=Alden Jarvis,CN=Users,DC=xyz,DC=com",
+        "Name":  "Alden Jarvis",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "76bc20f0-96be-48fa-a7db-cb7eac6c29af",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "76bc20f0-96be-48fa-a7db-cb7eac6c29af"
+    },
+    {
+        "GivenName":  "Ezekiel",
+        "Surname":  "Barker",
+        "UserPrincipalName":  "ebarker@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "ebarker",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1172"
+                },
+        "DistinguishedName":  "CN=Ezekiel Barker,CN=Users,DC=xyz,DC=com",
+        "Name":  "Ezekiel Barker",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "254ff949-5d42-46ac-92ef-c3959267c596",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "254ff949-5d42-46ac-92ef-c3959267c596"
+    },
+    {
+        "GivenName":  "Jocelynn",
+        "Surname":  "Brock",
+        "UserPrincipalName":  "jbrock@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "jbrock",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1173"
+                },
+        "DistinguishedName":  "CN=Jocelynn Brock,CN=Users,DC=xyz,DC=com",
+        "Name":  "Jocelynn Brock",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "18b06500-21e1-490d-aa4a-aa783148d021",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "18b06500-21e1-490d-aa4a-aa783148d021"
+    },
+    {
+        "GivenName":  "Giovanni",
+        "Surname":  "Alexander",
+        "UserPrincipalName":  "galexander@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "galexander",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1174"
+                },
+        "DistinguishedName":  "CN=Giovanni Alexander,CN=Users,DC=xyz,DC=com",
+        "Name":  "Giovanni Alexander",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "5059c269-709e-4598-8723-21f7580db413",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "5059c269-709e-4598-8723-21f7580db413"
+    },
+    {
+        "GivenName":  "Hadley",
+        "Surname":  "Kelley",
+        "UserPrincipalName":  "hkelley@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "hkelley",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1175"
+                },
+        "DistinguishedName":  "CN=Hadley Kelley,CN=Users,DC=xyz,DC=com",
+        "Name":  "Hadley Kelley",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "b3137798-4a6e-4e31-844d-c40c65f58863",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "b3137798-4a6e-4e31-844d-c40c65f58863"
+    },
+    {
+        "GivenName":  "Logan",
+        "Surname":  "Pierce",
+        "UserPrincipalName":  "lpierce@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "lpierce",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1176"
+                },
+        "DistinguishedName":  "CN=Logan Pierce,CN=Users,DC=xyz,DC=com",
+        "Name":  "Logan Pierce",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "7735383a-40d0-4233-9991-c0dc23f88001",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "7735383a-40d0-4233-9991-c0dc23f88001"
+    },
+    {
+        "GivenName":  "Jaslene",
+        "Surname":  "Kemp",
+        "UserPrincipalName":  "jkemp@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "jkemp",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1177"
+                },
+        "DistinguishedName":  "CN=Jaslene Kemp,CN=Users,DC=xyz,DC=com",
+        "Name":  "Jaslene Kemp",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "6f037423-8977-4c54-80b4-2a00b307355d",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "6f037423-8977-4c54-80b4-2a00b307355d"
+    },
+    {
+        "GivenName":  "Piper",
+        "Surname":  "Hill",
+        "UserPrincipalName":  "phill@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "phill",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1178"
+                },
+        "DistinguishedName":  "CN=Piper Hill,CN=Users,DC=xyz,DC=com",
+        "Name":  "Piper Hill",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "a4464a1d-d7ba-47bb-86f0-20935c539270",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "a4464a1d-d7ba-47bb-86f0-20935c539270"
+    },
+    {
+        "GivenName":  "Josie",
+        "Surname":  "Boyer",
+        "UserPrincipalName":  "jboyer@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "jboyer",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1179"
+                },
+        "DistinguishedName":  "CN=Josie Boyer,CN=Users,DC=xyz,DC=com",
+        "Name":  "Josie Boyer",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "670d5552-ba22-4cc9-8e31-503db95e82c9",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "670d5552-ba22-4cc9-8e31-503db95e82c9"
+    },
+    {
+        "GivenName":  "Salvatore",
+        "Surname":  "Ho",
+        "UserPrincipalName":  "sho@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "sho",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1180"
+                },
+        "DistinguishedName":  "CN=Salvatore Ho,CN=Users,DC=xyz,DC=com",
+        "Name":  "Salvatore Ho",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "f1e0a9e7-3afa-4871-9138-90ee15ae541b",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "f1e0a9e7-3afa-4871-9138-90ee15ae541b"
+    },
+    {
+        "GivenName":  "Trent",
+        "Surname":  "Ball",
+        "UserPrincipalName":  "tball@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "tball",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1181"
+                },
+        "DistinguishedName":  "CN=Trent Ball,CN=Users,DC=xyz,DC=com",
+        "Name":  "Trent Ball",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "ef7e8145-2df6-409f-8e06-3d2d0d7eb916",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "ef7e8145-2df6-409f-8e06-3d2d0d7eb916"
+    },
+    {
+        "GivenName":  "Zara",
+        "Surname":  "Sandoval",
+        "UserPrincipalName":  "zsandoval@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "zsandoval",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1182"
+                },
+        "DistinguishedName":  "CN=Zara Sandoval,CN=Users,DC=xyz,DC=com",
+        "Name":  "Zara Sandoval",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "5faad67b-631a-4a47-a2e0-168febcaf86c",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "5faad67b-631a-4a47-a2e0-168febcaf86c"
+    },
+    {
+        "GivenName":  "Angelina",
+        "Surname":  "Gates",
+        "UserPrincipalName":  "agates@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "agates",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1183"
+                },
+        "DistinguishedName":  "CN=Angelina Gates,CN=Users,DC=xyz,DC=com",
+        "Name":  "Angelina Gates",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "132af14f-ea44-472c-9204-d47cce985463",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "132af14f-ea44-472c-9204-d47cce985463"
+    },
+    {
+        "GivenName":  "Jadon",
+        "Surname":  "Mora",
+        "UserPrincipalName":  "jmora@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "jmora",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1184"
+                },
+        "DistinguishedName":  "CN=Jadon Mora,CN=Users,DC=xyz,DC=com",
+        "Name":  "Jadon Mora",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "5c9c1580-c4f6-4d9a-8605-c5dda9c0123c",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "5c9c1580-c4f6-4d9a-8605-c5dda9c0123c"
+    },
+    {
+        "GivenName":  "Regan",
+        "Surname":  "Oconnor",
+        "UserPrincipalName":  "roconnor@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "roconnor",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1185"
+                },
+        "DistinguishedName":  "CN=Regan Oconnor,CN=Users,DC=xyz,DC=com",
+        "Name":  "Regan Oconnor",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "84233ca0-abfe-4ccf-9f8b-14143530f5e0",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "84233ca0-abfe-4ccf-9f8b-14143530f5e0"
+    },
+    {
+        "GivenName":  "Adrienne",
+        "Surname":  "Donovan",
+        "UserPrincipalName":  "adonovan@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "adonovan",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1186"
+                },
+        "DistinguishedName":  "CN=Adrienne Donovan,CN=Users,DC=xyz,DC=com",
+        "Name":  "Adrienne Donovan",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "05562c4e-d76c-4914-ac68-58abb2d70395",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "05562c4e-d76c-4914-ac68-58abb2d70395"
+    },
+    {
+        "GivenName":  "Antwan",
+        "Surname":  "Berry",
+        "UserPrincipalName":  "aberry@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "aberry",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1187"
+                },
+        "DistinguishedName":  "CN=Antwan Berry,CN=Users,DC=xyz,DC=com",
+        "Name":  "Antwan Berry",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "cfb2256b-e374-4543-9d82-825f5df35479",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "cfb2256b-e374-4543-9d82-825f5df35479"
+    },
+    {
+        "GivenName":  "Jeremiah",
+        "Surname":  "Lynn",
+        "UserPrincipalName":  "jlynn@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "jlynn",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1188"
+                },
+        "DistinguishedName":  "CN=Jeremiah Lynn,CN=Users,DC=xyz,DC=com",
+        "Name":  "Jeremiah Lynn",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "2302c33a-83d1-4912-b391-243f11d61ed7",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "2302c33a-83d1-4912-b391-243f11d61ed7"
+    },
+    {
+        "GivenName":  "Mireya",
+        "Surname":  "Compton",
+        "UserPrincipalName":  "mcompton@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "mcompton",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1189"
+                },
+        "DistinguishedName":  "CN=Mireya Compton,CN=Users,DC=xyz,DC=com",
+        "Name":  "Mireya Compton",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "76b69976-1b5e-42ef-8e28-ffefb15cd02c",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "76b69976-1b5e-42ef-8e28-ffefb15cd02c"
+    },
+    {
+        "GivenName":  "Kiana",
+        "Surname":  "Weiss",
+        "UserPrincipalName":  "kweiss@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "kweiss",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1190"
+                },
+        "DistinguishedName":  "CN=Kiana Weiss,CN=Users,DC=xyz,DC=com",
+        "Name":  "Kiana Weiss",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "3a0b01a5-079e-4351-8260-f282b18b0af7",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "3a0b01a5-079e-4351-8260-f282b18b0af7"
+    },
+    {
+        "GivenName":  "Paris",
+        "Surname":  "Leon",
+        "UserPrincipalName":  "pleon@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "pleon",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1191"
+                },
+        "DistinguishedName":  "CN=Paris Leon,CN=Users,DC=xyz,DC=com",
+        "Name":  "Paris Leon",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "431caeed-9acc-4c56-8f74-e3f5ba1b80a3",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "431caeed-9acc-4c56-8f74-e3f5ba1b80a3"
+    },
+    {
+        "GivenName":  "Kymani",
+        "Surname":  "Duncan",
+        "UserPrincipalName":  "kduncan@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "kduncan",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1192"
+                },
+        "DistinguishedName":  "CN=Kymani Duncan,CN=Users,DC=xyz,DC=com",
+        "Name":  "Kymani Duncan",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "fb2c1855-764a-4d9b-a602-b1582384030c",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "fb2c1855-764a-4d9b-a602-b1582384030c"
+    },
+    {
+        "GivenName":  "Mariam",
+        "Surname":  "Herrera",
+        "UserPrincipalName":  "mherrera@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "mherrera",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1193"
+                },
+        "DistinguishedName":  "CN=Mariam Herrera,CN=Users,DC=xyz,DC=com",
+        "Name":  "Mariam Herrera",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "7f7b6ab7-2f87-405a-b9cd-b8d03b13d7c0",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "7f7b6ab7-2f87-405a-b9cd-b8d03b13d7c0"
+    },
+    {
+        "GivenName":  "Dominik",
+        "Surname":  "Kelley",
+        "UserPrincipalName":  "dkelley@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "dkelley",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1194"
+                },
+        "DistinguishedName":  "CN=Dominik Kelley,CN=Users,DC=xyz,DC=com",
+        "Name":  "Dominik Kelley",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "61d4390a-a1e9-4ffb-879c-3cdbace89d80",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "61d4390a-a1e9-4ffb-879c-3cdbace89d80"
+    },
+    {
+        "GivenName":  "Pedro",
+        "Surname":  "Rich",
+        "UserPrincipalName":  "prich@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "prich",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1195"
+                },
+        "DistinguishedName":  "CN=Pedro Rich,CN=Users,DC=xyz,DC=com",
+        "Name":  "Pedro Rich",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "2c76313b-ac4d-404a-a82c-0c8b6ce14648",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "2c76313b-ac4d-404a-a82c-0c8b6ce14648"
+    },
+    {
+        "GivenName":  "Quintin",
+        "Surname":  "Holland",
+        "UserPrincipalName":  "qholland@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "qholland",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1196"
+                },
+        "DistinguishedName":  "CN=Quintin Holland,CN=Users,DC=xyz,DC=com",
+        "Name":  "Quintin Holland",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "6c84acf6-c160-44f9-ba9e-642e7da33e2d",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "6c84acf6-c160-44f9-ba9e-642e7da33e2d"
+    },
+    {
+        "GivenName":  "Zaniyah",
+        "Surname":  "Baird",
+        "UserPrincipalName":  "zbaird@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "zbaird",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1197"
+                },
+        "DistinguishedName":  "CN=Zaniyah Baird,CN=Users,DC=xyz,DC=com",
+        "Name":  "Zaniyah Baird",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "fe8595dd-a869-4f5a-8d8a-0d81831ba4c8",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "fe8595dd-a869-4f5a-8d8a-0d81831ba4c8"
+    },
+    {
+        "GivenName":  "Madisyn",
+        "Surname":  "Mosley",
+        "UserPrincipalName":  "mmosley@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "mmosley",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1198"
+                },
+        "DistinguishedName":  "CN=Madisyn Mosley,CN=Users,DC=xyz,DC=com",
+        "Name":  "Madisyn Mosley",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "dea49f53-1ff3-4335-b741-5394e80c3b83",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "dea49f53-1ff3-4335-b741-5394e80c3b83"
+    },
+    {
+        "GivenName":  "Kamden",
+        "Surname":  "Flowers",
+        "UserPrincipalName":  "kflowers@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "kflowers",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1199"
+                },
+        "DistinguishedName":  "CN=Kamden Flowers,CN=Users,DC=xyz,DC=com",
+        "Name":  "Kamden Flowers",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "fe4a5bde-f00f-4d0e-a592-e8f8e922351c",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "fe4a5bde-f00f-4d0e-a592-e8f8e922351c"
+    },
+    {
+        "GivenName":  "Serenity",
+        "Surname":  "Bright",
+        "UserPrincipalName":  "sbright@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "sbright",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1200"
+                },
+        "DistinguishedName":  "CN=Serenity Bright,CN=Users,DC=xyz,DC=com",
+        "Name":  "Serenity Bright",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "0cf512c0-8ff8-4dcb-a9d7-5e74415dd88c",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "0cf512c0-8ff8-4dcb-a9d7-5e74415dd88c"
+    },
+    {
+        "GivenName":  "Tori",
+        "Surname":  "Freeman",
+        "UserPrincipalName":  "tfreeman@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "tfreeman",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1201"
+                },
+        "DistinguishedName":  "CN=Tori Freeman,CN=Users,DC=xyz,DC=com",
+        "Name":  "Tori Freeman",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "f6f44d28-ae75-47da-82e8-30b8a924cbd1",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "f6f44d28-ae75-47da-82e8-30b8a924cbd1"
+    },
+    {
+        "GivenName":  "Phillip",
+        "Surname":  "Huang",
+        "UserPrincipalName":  "phuang@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "phuang",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1202"
+                },
+        "DistinguishedName":  "CN=Phillip Huang,CN=Users,DC=xyz,DC=com",
+        "Name":  "Phillip Huang",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "3cbfd767-5e6f-402b-b7ad-f41382f347ca",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "3cbfd767-5e6f-402b-b7ad-f41382f347ca"
+    },
+    {
+        "GivenName":  "Leon",
+        "Surname":  "Haynes",
+        "UserPrincipalName":  "lhaynes@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "lhaynes",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1203"
+                },
+        "DistinguishedName":  "CN=Leon Haynes,CN=Users,DC=xyz,DC=com",
+        "Name":  "Leon Haynes",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "481904cb-8dc6-487c-9e10-f6707129ba19",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "481904cb-8dc6-487c-9e10-f6707129ba19"
+    },
+    {
+        "GivenName":  "Megan",
+        "Surname":  "Bowen",
+        "UserPrincipalName":  "mbowen@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "mbowen",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1204"
+                },
+        "DistinguishedName":  "CN=Megan Bowen,CN=Users,DC=xyz,DC=com",
+        "Name":  "Megan Bowen",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "afa9d3de-ea68-4089-8724-d5881a782c02",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "afa9d3de-ea68-4089-8724-d5881a782c02"
+    },
+    {
+        "GivenName":  "Riley",
+        "Surname":  "Bradshaw",
+        "UserPrincipalName":  "rbradshaw@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "rbradshaw",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1205"
+                },
+        "DistinguishedName":  "CN=Riley Bradshaw,CN=Users,DC=xyz,DC=com",
+        "Name":  "Riley Bradshaw",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "b4ec03fd-7aae-43a5-bdd0-2692ef873b43",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "b4ec03fd-7aae-43a5-bdd0-2692ef873b43"
+    },
+    {
+        "GivenName":  "Phillip",
+        "Surname":  "Greene",
+        "UserPrincipalName":  "pgreene@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "pgreene",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1206"
+                },
+        "DistinguishedName":  "CN=Phillip Greene,CN=Users,DC=xyz,DC=com",
+        "Name":  "Phillip Greene",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "8dbe141a-2e46-441e-ba10-ca80d3343296",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "8dbe141a-2e46-441e-ba10-ca80d3343296"
+    },
+    {
+        "GivenName":  "Cara",
+        "Surname":  "Carrillo",
+        "UserPrincipalName":  "ccarrillo@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "ccarrillo",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1207"
+                },
+        "DistinguishedName":  "CN=Cara Carrillo,CN=Users,DC=xyz,DC=com",
+        "Name":  "Cara Carrillo",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "531bea55-3297-47ce-b830-967040b73ac2",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "531bea55-3297-47ce-b830-967040b73ac2"
+    },
+    {
+        "GivenName":  "Frances",
+        "Surname":  "Mora",
+        "UserPrincipalName":  "fmora@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "fmora",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1208"
+                },
+        "DistinguishedName":  "CN=Frances Mora,CN=Users,DC=xyz,DC=com",
+        "Name":  "Frances Mora",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "79e599f7-c3af-4459-86b3-a37c190d3028",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "79e599f7-c3af-4459-86b3-a37c190d3028"
+    },
+    {
+        "GivenName":  "India",
+        "Surname":  "Dominguez",
+        "UserPrincipalName":  "idominguez@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "idominguez",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1209"
+                },
+        "DistinguishedName":  "CN=India Dominguez,CN=Users,DC=xyz,DC=com",
+        "Name":  "India Dominguez",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "8860780a-d160-4ae6-a74e-519e9b8b162c",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "8860780a-d160-4ae6-a74e-519e9b8b162c"
+    },
+    {
+        "GivenName":  "Winston",
+        "Surname":  "Reed",
+        "UserPrincipalName":  "wreed@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "wreed",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1210"
+                },
+        "DistinguishedName":  "CN=Winston Reed,CN=Users,DC=xyz,DC=com",
+        "Name":  "Winston Reed",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "950e9946-0c8c-4dda-ac9a-3a389354ff1c",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "950e9946-0c8c-4dda-ac9a-3a389354ff1c"
+    },
+    {
+        "GivenName":  "Jamal",
+        "Surname":  "Lopez",
+        "UserPrincipalName":  "jlopez@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "jlopez",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1211"
+                },
+        "DistinguishedName":  "CN=Jamal Lopez,CN=Users,DC=xyz,DC=com",
+        "Name":  "Jamal Lopez",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "64ab7e44-f896-470f-8ce0-7fcd0383c180",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "64ab7e44-f896-470f-8ce0-7fcd0383c180"
+    },
+    {
+        "GivenName":  "Jaylin",
+        "Surname":  "Perez",
+        "UserPrincipalName":  "jperez@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "jperez",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1212"
+                },
+        "DistinguishedName":  "CN=Jaylin Perez,CN=Users,DC=xyz,DC=com",
+        "Name":  "Jaylin Perez",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "0e210acc-4fba-432f-9b9c-51427dc21a4a",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "0e210acc-4fba-432f-9b9c-51427dc21a4a"
+    },
+    {
+        "GivenName":  "Erik",
+        "Surname":  "Harrell",
+        "UserPrincipalName":  "eharrell@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "eharrell",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1213"
+                },
+        "DistinguishedName":  "CN=Erik Harrell,CN=Users,DC=xyz,DC=com",
+        "Name":  "Erik Harrell",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "79aed9de-9eb4-4e80-9c59-e6a151451135",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "79aed9de-9eb4-4e80-9c59-e6a151451135"
+    },
+    {
+        "GivenName":  "Cecelia",
+        "Surname":  "Armstrong",
+        "UserPrincipalName":  "carmstrong@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "carmstrong",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1214"
+                },
+        "DistinguishedName":  "CN=Cecelia Armstrong,CN=Users,DC=xyz,DC=com",
+        "Name":  "Cecelia Armstrong",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "57d968ef-7ccc-459b-b7f3-43bc45876242",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "57d968ef-7ccc-459b-b7f3-43bc45876242"
+    },
+    {
+        "GivenName":  "Jose",
+        "Surname":  "Marsh",
+        "UserPrincipalName":  "jmarsh@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "jmarsh",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1215"
+                },
+        "DistinguishedName":  "CN=Jose Marsh,CN=Users,DC=xyz,DC=com",
+        "Name":  "Jose Marsh",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "377a2526-ce36-4ff4-ba67-fac7e0213fcd",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "377a2526-ce36-4ff4-ba67-fac7e0213fcd"
+    },
+    {
+        "GivenName":  "Pierre",
+        "Surname":  "Williamson",
+        "UserPrincipalName":  "pwilliamson@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "pwilliamson",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1216"
+                },
+        "DistinguishedName":  "CN=Pierre Williamson,CN=Users,DC=xyz,DC=com",
+        "Name":  "Pierre Williamson",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "2a9af2bc-9a6f-4c62-8ddf-a6cd390d329e",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "2a9af2bc-9a6f-4c62-8ddf-a6cd390d329e"
+    },
+    {
+        "GivenName":  "Logan",
+        "Surname":  "Padilla",
+        "UserPrincipalName":  "lpadilla@xyz.com",
+        "Enabled":  false,
+        "SamAccountName":  "lpadilla",
+        "SID":  {
+                    "BinaryLength":  28,
+                    "AccountDomainSid":  "S-1-5-21-936594868-277604574-2023863385",
+                    "Value":  "S-1-5-21-936594868-277604574-2023863385-1217"
+                },
+        "DistinguishedName":  "CN=Logan Padilla,CN=Users,DC=xyz,DC=com",
+        "Name":  "Logan Padilla",
+        "ObjectClass":  "user",
+        "ObjectGuid":  "0b80733e-18be-46fd-81d6-5a4e8a16aa84",
+        "PropertyNames":  [
+                              "DistinguishedName",
+                              "Enabled",
+                              "GivenName",
+                              "Name",
+                              "ObjectClass",
+                              "ObjectGUID",
+                              "SamAccountName",
+                              "SID",
+                              "Surname",
+                              "UserPrincipalName"
+                          ],
+        "AddedProperties":  [
+
+                            ],
+        "RemovedProperties":  [
+
+                              ],
+        "ModifiedProperties":  [
+
+                               ],
+        "PropertyCount":  10,
+        "ObjectGUID":  "0b80733e-18be-46fd-81d6-5a4e8a16aa84"
+    }
+]

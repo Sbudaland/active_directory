@@ -1,0 +1,13 @@
+#copy from remote session
+Copy-Item c:\Windows\Tasks\DisabledUsers.CSV -FromSession $dc 
+
+# Search fro DisabledUsers
+Search-ADAccount –AccountDisabled –UsersOnly –ResultPageSize 2000 –ResultSetSize $null | Select-Object SamAccountName | Export-CSV “C:\Windows\Tasks\DisabledUsers.CSV” –NoTypeInformation
+
+#reset the password for multiple users using a text file 
+$newPassword = (Read-Host -Prompt "Provide New Password" -AsSecureString)
+Get-Content C:\Files\users.txt | Set-ADAccountPassword -NewPassword $newPassword -Reset
+
+#Enable disabled users
+$users=Import-CSV .\DisabledUsers.CSV
+ ForEach($user in $users) {Enable-ADAccount -Identity $(user.SamAccountName)}
