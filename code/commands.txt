@@ -2,7 +2,9 @@
 Copy-Item c:\Windows\Tasks\DisabledUsers.CSV -FromSession $dc 
 
 # Search fro DisabledUsers
-Search-ADAccount –AccountDisabled –UsersOnly –ResultPageSize 2000 –ResultSetSize $null | Select-Object SamAccountName | Export-CSV “C:\Windows\Tasks\DisabledUsers.CSV” –NoTypeInformation
+1. Search-ADAccount –AccountDisabled –UsersOnly –ResultPageSize 2000 –ResultSetSize $null | Select-Object SamAccountName | Export-CSV “C:\Windows\Tasks\DisabledUsers.CSV” –NoTypeInformation
+2.  Get-ADUser -LdapFilter "(userAccountControl:1.2.840.113556.1.4.803:=2)" | ConvertTo-Json
+
 
 #reset the password for multiple users using a text file 
 $newPassword = (Read-Host -Prompt "Provide New Password" -AsSecureString)
